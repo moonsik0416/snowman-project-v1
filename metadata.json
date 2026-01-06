@@ -1,0 +1,7 @@
+{
+  "name": "SnowDex: 눈사람 도감",
+  "description": "사진을 찍어 당신만의 특별한 눈사람을 수집하고 도감을 완성해보세요. AI가 눈사람의 특징과 성격을 분석해줍니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
